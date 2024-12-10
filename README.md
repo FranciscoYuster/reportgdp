@@ -12,7 +12,7 @@ This project provides a foundational approach to gathering, formatting, and prep
 
 [GDP Report](https://franciscoyuster.github.io/reportgdp/)
 
-<img src="images/gdp.png">
+[![GDP Report](images/gdp.png)](https://franciscoyuster.github.io/reportgdp/)
 
 ## Requirements
 To run this, you will need:
