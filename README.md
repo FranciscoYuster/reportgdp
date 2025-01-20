@@ -10,9 +10,9 @@
 # Report
 This project provides a foundational approach to gathering, formatting, and preparing GDP data for analysis. Feel free to adapt or expand the code for specific analytical needs.
 
-[GDP Report](https://franciscoyuster.github.io/reportgdp/)
+[GDP Report](https://app.powerbi.com/view?r=eyJrIjoiZmUwZGE3ZGMtM2Q3OC00OGE4LTgzMDktN2ExMjQ2ZGU2ZTkwIiwidCI6IjZmZDQ4ZjQxLWFmODEtNDVhNS05YzFlLWUzOTkwYmMyN2U3YyIsImMiOjR9)
 
-[![GDP Report](images/gdp.png)](https://franciscoyuster.github.io/reportgdp/)
+[![GDP Report](images/gdp.png)](https://app.powerbi.com/view?r=eyJrIjoiZmUwZGE3ZGMtM2Q3OC00OGE4LTgzMDktN2ExMjQ2ZGU2ZTkwIiwidCI6IjZmZDQ4ZjQxLWFmODEtNDVhNS05YzFlLWUzOTkwYmMyN2U3YyIsImMiOjR9)
 
 ## Requirements
 To run this, you will need:
